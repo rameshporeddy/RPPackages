@@ -4,3 +4,6 @@
 [submodule "Packages/LocalizationManager"]
 	path = Packages/LocalizationManager
 	url = https://github.com/rameshporeddy/LocalizationManager.git
+[submodule "Packages/SoundManager"]
+	path = Packages/SoundManager
+	url = https://github.com/rameshporeddy/SoundManager.git

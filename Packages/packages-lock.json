@@ -6,6 +6,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.rp.soundmanager": {
+      "version": "file:SoundManager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.rp.uimanager": {
       "version": "file:UIManager",
       "depth": 0,
