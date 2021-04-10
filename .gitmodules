@@ -1,3 +1,6 @@
 [submodule "Packages/UIManager"]
 	path = Packages/UIManager
 	url = https://github.com/rameshporeddy/UIManager.git
+[submodule "Packages/LocalizationManager"]
+	path = Packages/LocalizationManager
+	url = https://github.com/rameshporeddy/LocalizationManager.git
