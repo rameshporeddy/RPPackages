@@ -1,0 +1,3 @@
+[submodule "Packages/UIManager"]
+	path = Packages/UIManager
+	url = https://github.com/rameshporeddy/UIManager.git
