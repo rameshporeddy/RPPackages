@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.rp.localization": {
-      "version": "file:SimpleLocalization",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.rp.uimanager": {
       "version": "file:UIManager",
       "depth": 0,
